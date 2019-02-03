@@ -2,7 +2,7 @@ package redisclipool
 
 import(
 	"time"
-
+	"fmt"
 	
 	"github.com/gomodule/redigo/redis"
 	
